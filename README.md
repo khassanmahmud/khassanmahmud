@@ -14,7 +14,7 @@ UI, and continuous learning—actively exploring Next JS and Kubernetes .
 | **Frontend** | JavaScript, TypeScript, React, Next.js, Redux, MobX, Material UI, HTML5, CSS3, SASS |
 | **Backend** | ASP.NET Core | PHP, Laravel, Node.js, Express.js, REST APIs |
 | **Database** | MySQL | MSSQL Server |
-| **Testing Tools** | React Testing Library | Unit Test | Integration Test |
+| **Testing Tools** | React Testing Library | UT | IT |
 | **Package Management** | NPM, Yarn, Composer |
 | **Build Tools** | Webpack, Vite |
 | **Code Quality** | ESLint, Prettier |
