@@ -9,17 +9,18 @@ UI, and continuous learning—actively exploring Next JS and Kubernetes .
 
 ## Core Competencies
 
-| **Category** | **Skills & Technologies** |
+| **Area** | **Skills & Technologies** |
 |--------------|---------------------------|
 | **Frontend** | JavaScript, TypeScript, React, Next.js, Redux, MobX, React Testing Library, Material UI, HTML5, CSS3, SASS |
-| **Backend** | PHP, Laravel, Node.js, Express.js, REST APIs |
+| **Backend** | ASP.NET Core | PHP, Laravel, Node.js, Express.js, REST APIs |
 | **Database** | MySQL |
 | **Package Management** | NPM, Yarn, Composer |
 | **Build Tools** | Webpack, Vite |
 | **Code Quality** | ESLint, Prettier |
-| **Version Control** | Git |
+| **Version Control** | Git, Github |
 | **Process** | Agile, Scrum |
-| **Collaboration & DevOps Tools** | GitHub, Bitbucket, Jira, Confluence, TeamCity, Azure DevOps, Figma |
+| **Cloud Computing** | MS Azure |
+| **Collaboration & DevOps Tools** | GitHub, Bitbucket, Jira, Confluence, TeamCity, Figma |
 
 ## Connect with Me
 - LinkedIn: https://linkedin.com/in/khassanmahmud
