@@ -11,7 +11,7 @@ UI, and continuous learning—actively exploring Next JS and Kubernetes .
 
 | **Area** | **Skills & Technologies** |
 |--------------|---------------------------|
-| **Frontend** | JavaScript, TypeScript, React, Next.js, Redux, MobX, React Testing Library, Material UI, HTML5, CSS3, SASS |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, Redux, MobX, Material UI, HTML5, CSS3, SASS |
 | **Backend** | ASP.NET Core | PHP, Laravel, Node.js, Express.js, REST APIs |
 | **Database** | MySQL | MSSQL Server |
 | **Testing Tools** | React Testing Library | Unit Test | Integration Test |
