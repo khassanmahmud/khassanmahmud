@@ -12,7 +12,7 @@ UI, and continuous learning—actively exploring Next JS.
 | **Frontend** | JavaScript, TypeScript, React, Next.js, Redux, MobX, Material UI, HTML5, CSS3, SASS |
 | **Backend** | ASP.NET Core, PHP, Laravel, Node.js, Express.js, REST APIs |
 | **Database** | MySQL | MSSQL Server |
-| **Testing Tools** | React Testing Library | UT | IT |
+| **Testing Tools** | React Testing Library, Unit Test, Integration Test |
 | **Package Management** | NPM, Yarn, Composer |
 | **Build Tools** | Webpack, Vite |
 | **Code Quality** | ESLint, Prettier |
