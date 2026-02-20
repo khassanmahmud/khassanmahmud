@@ -3,7 +3,7 @@ Hi, I'm Hassan, Senior Software Engineer with 14 years’ experience, including 
 Frontend Developer specializing in React, TypeScript, Redux and MobX.
 Delivered high-impact, user-centric applications by collaborating with
 cross-functional and international teams. Committed to clean architecture, scalable
-UI, and continuous learning—actively exploring Next JS and Kubernetes .
+UI, and continuous learning—actively exploring Next JS.
 
 ## Core Competencies
 
