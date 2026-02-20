@@ -1,7 +1,5 @@
-## Hi there 👋
-
 ## About Me
-Senior Software Manager with 14 years’ experience, including 6 years as a Senior
+Hi, I'm Hassan, Senior Software Engineer with 14 years’ experience, including 6 years as a Senior
 Frontend Developer specializing in React, TypeScript, Redux and MobX.
 Delivered high-impact, user-centric applications by collaborating with
 cross-functional and international teams. Committed to clean architecture, scalable
@@ -21,7 +19,8 @@ UI, and continuous learning—actively exploring Next JS and Kubernetes .
 | **Version Control** | Git |
 | **Process** | Agile, Scrum |
 | **Cloud Computing** | MS Azure |
-| **Collaboration & DevOps Tools** | GitHub, Bitbucket, Jira, Confluence, TeamCity, Figma |
+| **Collaboration** | GitHub, Bitbucket, Jira, Confluence, Figma |
+| **DevOps** | Docker | Github Actions |
 
 ## Connect with Me
 - LinkedIn: https://linkedin.com/in/khassanmahmud
