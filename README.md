@@ -11,7 +11,7 @@ UI, and continuous learning—actively exploring Next JS.
 |--------------|---------------------------|
 | **Frontend** | JavaScript, TypeScript, React, Next.js, Redux, MobX, Material UI, HTML5, CSS3, SASS |
 | **Backend** | ASP.NET Core, PHP, Laravel, Node.js, Express.js, REST APIs |
-| **Database** | MySQL | MSSQL Server |
+| **Database** | MySQL, MSSQL Server |
 | **Testing Tools** | React Testing Library, Unit Test, Integration Test |
 | **Package Management** | NPM, Yarn, Composer |
 | **Build Tools** | Webpack, Vite |
@@ -20,7 +20,8 @@ UI, and continuous learning—actively exploring Next JS.
 | **Process** | Agile, Scrum |
 | **Cloud Computing** | MS Azure |
 | **Collaboration** | GitHub, Bitbucket, Jira, Confluence, Figma |
-| **DevOps** | Docker | Github Actions |
+| **DevOps** | Docker, Github Actions |
+| **AI** | LangChain, LangGraph |
 
 ## Connect with Me
 - LinkedIn: https://linkedin.com/in/khassanmahmud
